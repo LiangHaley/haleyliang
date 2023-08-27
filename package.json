@@ -1,0 +1,22 @@
+{
+  "name": "haleyliang",
+  "version": "1.0.0",
+  "description": "创建自定义react hooks",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiangHaley/haleyliang.git"
+  },
+  "keywords": [
+    "dumi"
+  ],
+  "author": "LiangHaley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiangHaley/haleyliang/issues"
+  },
+  "homepage": "https://github.com/LiangHaley/haleyliang#readme"
+}
